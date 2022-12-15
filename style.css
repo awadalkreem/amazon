@@ -11,12 +11,12 @@ body{
     z-index: 10;
 }
 .navbar{
-    background-image: radial-gradient(circle, #041228, #080e22, #090a1d, #070617, #050211);
+    background-image: #fff;
     padding: 0 !important;
 }
 .navbar-brand{
     font-family: Arial, Helvetica, sans-serif;
-    color:#fff !important;
+    color:#000 !important;
     height: 40px;
     padding-left: 20px;
     font-weight: 700;
@@ -25,13 +25,13 @@ body{
     padding: 0 10px;
 }
 .navbar-nav li a{
-    color: #fff !important;
+    color: #000 !important;
     font-weight: 600;
     float: right;
     text-align: left;
 }
 .fa-bars{
-    color: #fff;
+    color: #fff !important;
     font-size: 80px !important;
 }
 .navbar-toggler{
