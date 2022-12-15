@@ -66,6 +66,8 @@ body{
 /*--------------Services Sections--------------*/
 #Services{
     padding: 70px 0;
+    display: flex;
+    justify-content: space-around;
 }
 .Service-img{
     width: 100px;
@@ -90,6 +92,7 @@ body{
     width: 200px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 0;
     display: block;
     transform: translateY(63px);
 }
