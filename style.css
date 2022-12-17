@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    font-family: sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #nav-bar{
     position: sticky;
@@ -31,7 +31,7 @@ body{
     text-align: left;
 }
 .fa-bars{
-    color: #fff !important;
+    color: blue !important;
     font-size: 80px !important;
 }
 .navbar-toggler{
@@ -92,7 +92,6 @@ body{
     width: 200px;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 0;
     display: block;
     transform: translateY(63px);
 }
@@ -179,7 +178,7 @@ margin-bottom: 30px;
 }
 .float{
 	position:fixed;
-	width:60px;
+	width:89px;
 	height:60px;
 	bottom:40px;
 	right:40px;
@@ -248,3 +247,4 @@ margin-bottom: 30px;
     background-image: linear-gradient(to top, #1297ef, #007b9f, #005551, #1b2f21, #0b0b0a);
 
 }
+
